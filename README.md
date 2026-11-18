@@ -1,4 +1,4 @@
-# Event Register - College Event Registration (SJCEM)
+# EventRegister - College Event Registration (SJCEM)
 
 Flask (Python) + MySQL + HTML/CSS/JS. Supports solo registration, team
 registration (any one member registers for the whole group), and an
